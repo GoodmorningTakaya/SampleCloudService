@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Emulator config file set to C:\Users\tmtan\source\repos\CloudWebApp\EmployeeManagerCloudApp\csx\Debug\roles\ThumbnailWebJob\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] DiagnosticsStoreRootPath set to: C:\Users\tmtan\AppData\Local\dftmp\Resources\8b1866c6-9a2e-44bd-a0be-56b19e223b77
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Loading config file: C:\Users\tmtan\source\repos\CloudWebApp\EmployeeManagerCloudApp\csx\Debug\roles\ThumbnailWebJob\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Config file to read: C:\Users\tmtan\source\repos\CloudWebApp\EmployeeManagerCloudApp\csx\Debug\roles\ThumbnailWebJob\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Emulator config file set to C:\Users\tmtan\source\repos\CloudWebApp\EmployeeManagerCloudApp\csx\Debug\roles\ThumbnailWebJob\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [12/12/2019 12:15:00 AM] Resetting DiagnosticPlugin

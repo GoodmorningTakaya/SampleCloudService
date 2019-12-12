@@ -1,0 +1,10 @@
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\bin\Release\CommonClassLibrary.dll.config
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\bin\Release\CommonClassLibrary.dll
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\bin\Release\CommonClassLibrary.pdb
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\bin\Release\EntityFramework.dll
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\bin\Release\EntityFramework.xml
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\obj\Release\CommonClassLibrary.csproj.CopyComplete
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\obj\Release\CommonClassLibrary.dll
+C:\Users\tmtan\source\repos\CloudWebApp\CommonClassLibrary\obj\Release\CommonClassLibrary.pdb
